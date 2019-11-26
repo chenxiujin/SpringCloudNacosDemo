@@ -1,3 +1,4 @@
+# nacos分布式配置中心的配置
 spring:
   application:
     name: nacos-provider
